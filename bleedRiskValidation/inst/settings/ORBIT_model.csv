@@ -1,0 +1,6 @@
+"type","analysisId","covariateName","cohortId","atlasId","cohortName","startDay","endDay","count","ageInteraction","lnAgeInteraction","lnValue","aggregateMethod","imputationValue","covariateId","points"
+"cohortCovariate",456,"Anemia days before: -9999 days after: 0",19722,19722,"Anemia",-9999,0,0,FALSE,FALSE,FALSE,"na",0,19722456,2
+"cohortCovariate",456,"Prior Hemorrhage days before: -9999 days after: 0",19723,19723,"Prior Hemorrhage",-9999,0,0,FALSE,FALSE,FALSE,"na",0,19723456,2
+"cohortCovariate",456,"Renal disease days before: -9999 days after: 0",19720,19720,"Renal disease",-9999,0,0,FALSE,FALSE,FALSE,"na",0,19720456,1
+"cohortCovariate",456,"antiplatelet agents days before: -30 days after: 0",19605,19605,"antiplatelet agents",-30,0,0,FALSE,FALSE,FALSE,"na",0,19605456,1
+"ageCovariate",458,"age_g_74",0,0,"na",0,0,0,FALSE,FALSE,FALSE,"na",0,1458,1

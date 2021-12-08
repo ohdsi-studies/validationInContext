@@ -1,0 +1,6 @@
+"type","analysisId","covariateName","cohortId","atlasId","cohortName","startDay","endDay","count","ageInteraction","lnAgeInteraction","lnValue","aggregateMethod","imputationValue","covariateId","points"
+"cohortCovariate",456,"Anemia days before: -9999 days after: 0",19722,19722,"Anemia",-9999,0,0,FALSE,FALSE,FALSE,"na",0,19722456,3
+"cohortCovariate",456,"Severe Renal Disease days before: -9999 days after: 0",19721,19721,"Severe Renal Disease",-9999,0,0,FALSE,FALSE,FALSE,"na",0,19721456,3
+"cohortCovariate",456,"Prior Hemorrhage days before: -9999 days after: 0",19723,19723,"Prior Hemorrhage",-9999,0,0,FALSE,FALSE,FALSE,"na",0,19723456,1
+"cohortCovariate",456,"Hypertension days before: -9999 days after: 0",19724,19724,"Hypertension",-9999,0,0,FALSE,FALSE,FALSE,"na",0,19724456,1
+"ageCovariate",458,"age_ge_75",0,0,"na",0,0,0,FALSE,FALSE,FALSE,"na",0,1458,1

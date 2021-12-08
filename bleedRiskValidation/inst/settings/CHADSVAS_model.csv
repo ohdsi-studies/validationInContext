@@ -1,0 +1,2 @@
+"type","analysisId","covariateName","cohortId","atlasId","cohortName","startDay","endDay","count","ageInteraction","lnAgeInteraction","lnValue","aggregateMethod","imputationValue","covariateId","points"
+"standardCovariate",0,"CHADS2VAS",0,0,0,0,0,0,0,0,0,"na",0,1904,1

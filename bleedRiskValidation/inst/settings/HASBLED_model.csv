@@ -1,0 +1,9 @@
+"type","analysisId","covariateName","cohortId","atlasId","cohortName","startDay","endDay","count","ageInteraction","lnAgeInteraction","lnValue","aggregateMethod","imputationValue","covariateId","points"
+"cohortCovariate",456,"hb Hypertension days before: -9999 days after: 0",19708,19708,"hb Hypertension",-9999,0,0,FALSE,FALSE,FALSE,"na",0,19708456,1
+"cohortCovariate",456,"hb Renal disease days before: -9999 days after: 0",19709,19709,"hb Renal disease",-9999,0,0,FALSE,FALSE,FALSE,"na",0,19709456,1
+"cohortCovariate",456,"hb Liver disease days before: -9999 days after: 0",19710,19710,"hb Liver disease",-9999,0,0,FALSE,FALSE,FALSE,"na",0,19710456,1
+"cohortCovariate",456,"hb Stroke days before: -9999 days after: 0",19711,19711,"hb Stroke",-9999,0,0,FALSE,FALSE,FALSE,"na",0,19711456,1
+"cohortCovariate",456,"hb Prior bleed days before: -9999 days after: 0",19712,19712,"hb Prior bleed",-9999,0,0,FALSE,FALSE,FALSE,"na",0,19712456,1
+"cohortCovariate",456,"hb Alcohol use days before: -9999 days after: 0",19714,19714,"hb Alcohol use",-9999,0,0,FALSE,FALSE,FALSE,"na",0,19714456,1
+"cohortCovariate",456,"hb Drug use bleed days before: -9999 days after: 0",19713,19713,"hb Drug use bleed",-9999,0,0,FALSE,FALSE,FALSE,"na",0,19713456,1
+"ageCovariate",458,"age_g_65",0,0,"na",0,0,0,FALSE,FALSE,FALSE,"na",0,1458,1
