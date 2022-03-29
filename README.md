@@ -7,7 +7,7 @@ Putting External Validation Performance of Major Bleeding Risk Models into Conte
 - Study type: **Methods, Clinical Application**
 - Tags: **Patient Level Prediction**
 - Study lead: **Clair Blacketer**
-- Study lead forums tag: **[[clairblacketer]](https://forums.ohdsi.org/u/clairblacketer)**
+- Study lead forums tag: **[clairblacketer](https://forums.ohdsi.org/u/clairblacketer)**
 - Study start date: **Feb 22, 2018**
 - Study end date: **Jun 13, 2021**
 - Protocol: **-**
